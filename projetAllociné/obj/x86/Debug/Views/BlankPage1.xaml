@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="projetAllociné.Views.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:projetAllociné.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+    xmlns:navigation="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:ConnectionId='2' FontSize="40" Name="txtBlockNomCine" HorizontalAlignment="Left" Margin="495,50,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <GridView x:ConnectionId='3' Margin="289,151,501,391" Name="gvFilms">
+            <GridView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Image Source="{Binding imageFilm}"  Width="90" Height="90" Stretch="Fill" ></Image>
+                        <Border VerticalAlignment="Bottom" Height="15" Background="Black" Opacity="0.8">
+                            <TextBlock Text="{Binding nomFilm}" HorizontalAlignment="Center" RequestedTheme="Dark" VerticalAlignment="Center" FontSize="15" />
+                        </Border>
+                    </Grid>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+
+    </Grid>
+
+</Page>
+

@@ -1,0 +1,12 @@
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\bin\Debug\netstandard2.0\gestionBDD.deps.json
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\bin\Debug\netstandard2.0\gestionBDD.dll
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.csproj.CoreCompileInputs.cache
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.AssemblyInfoInputs.cache
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.AssemblyInfo.cs
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\bin\Debug\netstandard2.0\gestionBDD.pdb
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.csprojAssemblyReference.cache
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.csproj.CopyComplete
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.dll
+C:\Users\AFCM_MSI\source\repos\projetAllociné\gestionBDD\obj\Debug\netstandard2.0\gestionBDD.pdb
