@@ -12,6 +12,5 @@ namespace Entity
         public string genreFilm { get; set; }
         public int nbVotes { get; set; }
         public int totalVotes { get; set; }
-        public int MyProperty { get; set; }
     }
 }
